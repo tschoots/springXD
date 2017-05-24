@@ -1,0 +1,7 @@
+# springXD website
+http://projects.spring.io/spring-xd/
+
+# springXD twitter
+https://spring.io/guides/gs/spring-xd/
+
+https://amankumarlabra.wordpress.com/2014/10/17/how-to-install-spring-xd-on-ubuntuwindowsosx/
