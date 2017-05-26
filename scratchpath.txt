@@ -5,3 +5,6 @@ http://projects.spring.io/spring-xd/
 https://spring.io/guides/gs/spring-xd/
 
 https://amankumarlabra.wordpress.com/2014/10/17/how-to-install-spring-xd-on-ubuntuwindowsosx/
+
+#configure twitter stream
+https://github.com/spring-projects/spring-xd-samples/blob/master/pivotal-hd-demo/README.md
